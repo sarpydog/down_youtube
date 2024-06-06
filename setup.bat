@@ -2,7 +2,7 @@
 
 :: Check if venv exists, if not, create it
 if not exist venv (
-    python -m venv venv
+    python3 -m venv venv
 )
 
 :: Activate virtual environment
