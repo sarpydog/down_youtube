@@ -5,6 +5,8 @@ This is a video download code which is powered by pytube from YouTube.
 Usage:
 First time to use this tool, please run:
 > ./setup.sh
+or
+> setup.bat 
 
 for initializing packages.
 
