@@ -9,4 +9,5 @@ fi
 source venv/bin/activate
 
 # Install dependencies
-pip install -r requirements.txt
+pip install pytube
+pip install progressbar2
